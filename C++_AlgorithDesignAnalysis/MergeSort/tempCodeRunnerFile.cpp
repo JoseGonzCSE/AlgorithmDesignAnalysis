@@ -1,0 +1,2 @@
+delete[] lArray;
+    delete[] rArray;
